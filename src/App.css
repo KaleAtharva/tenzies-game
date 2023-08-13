@@ -43,7 +43,7 @@ body{
 }
 
 .die-num{
-    font-size: 1.25rem;
+    font-size: 2rem;
 }
 
 .die-roll-button{
@@ -76,6 +76,7 @@ body{
     margin-top: 0;
     text-align: center;
     margin-bottom: 8rem;
+    font-size: 1.5rem;
 }
 
 @media only screen and (max-width: 500px){
