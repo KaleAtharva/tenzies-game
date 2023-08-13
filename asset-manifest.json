@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tenzies-game/static/css/main.e4f454f7.css",
+    "main.css": "/tenzies-game/static/css/main.66872741.css",
     "main.js": "/tenzies-game/static/js/main.43f7b771.js",
     "index.html": "/tenzies-game/index.html",
-    "main.e4f454f7.css.map": "/tenzies-game/static/css/main.e4f454f7.css.map",
+    "main.66872741.css.map": "/tenzies-game/static/css/main.66872741.css.map",
     "main.43f7b771.js.map": "/tenzies-game/static/js/main.43f7b771.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f454f7.css",
+    "static/css/main.66872741.css",
     "static/js/main.43f7b771.js"
   ]
 }
